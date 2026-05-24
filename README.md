@@ -1,7 +1,6 @@
 
 
-Uploading 0524435.mp4…
-
+https://github.com/user-attachments/assets/5e261077-0e67-4aaa-82ac-2e883c494d27
 
 
 # Azure VM Deployment with PowerShell
